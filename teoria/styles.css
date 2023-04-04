@@ -1,0 +1,49 @@
+   
+    body {
+        padding: 30px;
+        padding-bottom: 500px;
+    }
+
+p {
+    color: deeppink;
+    font-size: 30px;
+}
+
+/* Classes e Ids */
+.meu-paragrafo {
+    background-color: greenyellow;
+    color: black;
+}
+ 
+#titulo-principal{
+    background-color: blueviolet;
+    color: beige;
+    padding: 20px;
+    font-family: monospace;
+}
+*{
+    font-family: cursive; 
+}
+
+p, h1{
+   border-bottom: 1px solid red;
+}
+/* cores*/
+.nome-da-cor{
+    color: magenta;
+}
+.hexa {
+   color: #101085; 
+   background-color: #717499;
+}
+.rgb{
+color: rgb(100, 54, 33);
+}
+
+/* fontes*/
+.serifada{font-family: Georgia, 'Times New Roman', Times, serif
+}
+.sem-serifa{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mono-espacada{ font-family: 'Courier New', Courier, monospace;
+}
